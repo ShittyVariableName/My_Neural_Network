@@ -1,2 +1,2 @@
-# My_Neural_Network
-This is a test neural network written in C++
+# To begin with
+This is just a test net, we need to make this better, hopefully when you people finish your nets, we can merge them to make it the best one of the three.
